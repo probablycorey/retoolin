@@ -1,0 +1,28 @@
+id: headerTitle
+type: widget
+subtype: TextWidget2
+template:
+  ordered:
+    - heightType: auto
+    - horizontalAlign: left
+    - hidden: false
+    - imageWidth: fit
+    - showInEditor: false
+    - verticalAlign: center
+    - tooltipText: ''
+    - value: '#### POKEMON VALLEY'
+    - _disclosedFields:
+        array: []
+    - disableMarkdown: false
+    - overflowType: scroll
+    - maintainSpaceWhenHidden: false
+style:
+  ordered: []
+position2:
+  position2:
+    container: container
+    rowGroup: header
+    col: 1
+    height: 0.6
+    width: 11
+createdAt: 2023-04-13T17:25:36.550Z

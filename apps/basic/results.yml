@@ -1,0 +1,31 @@
+id: results
+type: widget
+subtype: TextWidget2
+template:
+  ordered:
+    - heightType: auto
+    - horizontalAlign: left
+    - hidden: false
+    - imageWidth: fill
+    - showInEditor: false
+    - verticalAlign: center
+    - tooltipText: ''
+    - value: |-
+        ## {{textInput.value}} abilities:
+        ----
+        `{{pokemonQuery.data.abilities.map((x) => x.ability.name).join(", ")}}`
+    - _disclosedFields:
+        array: []
+    - disableMarkdown: false
+    - overflowType: scroll
+    - maintainSpaceWhenHidden: false
+style:
+  ordered: []
+position2:
+  position2:
+    container: container
+    subcontainer: ccc11
+    row: 2.4
+    height: 0.6
+    width: 12
+createdAt: 2023-04-13T17:31:10.596Z

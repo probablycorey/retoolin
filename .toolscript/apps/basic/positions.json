@@ -1,0 +1,50 @@
+{
+  "container": { "row": 4, "col": 2, "height": 0.2, "width": 7 },
+  "headerTitle": {
+    "container": "container",
+    "rowGroup": "header",
+    "col": 1,
+    "height": 0.6,
+    "width": 11
+  },
+  "textInput": {
+    "container": "container",
+    "subcontainer": "ccc11",
+    "height": 1,
+    "width": 5
+  },
+  "search": {
+    "container": "container",
+    "subcontainer": "ccc11",
+    "row": 1.2,
+    "height": 1,
+    "width": 12
+  },
+  "text1": {
+    "container": "container",
+    "rowGroup": "footer",
+    "height": 0.6,
+    "width": 12
+  },
+  "results": {
+    "container": "container",
+    "subcontainer": "ccc11",
+    "row": 2.4,
+    "height": 0.6,
+    "width": 12
+  },
+  "alert": {
+    "container": "container",
+    "subcontainer": "ccc11",
+    "col": 5,
+    "height": 1,
+    "width": 7
+  },
+  "image1": {
+    "container": "container",
+    "rowGroup": "header",
+    "row": 1.3322676295501878e-15,
+    "height": 3,
+    "width": 1
+  }
+}

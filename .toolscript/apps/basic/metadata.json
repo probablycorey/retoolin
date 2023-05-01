@@ -1,0 +1,20 @@
+{
+  "toolscriptVersion": "0.0.1",
+  "version": "43.0.9",
+  "pageUuid": "64313402-da1f-11ed-af45-cfed75fa95f6",
+  "appTemplate": {
+    "queryStatusVisibility": false,
+    "experimentalPerfFeatures": {
+      "object": {
+        "serverDepGraphEnabled": false,
+        "useRuntimeV2": true,
+        "runtimeV2OptOut": false
+      }
+    },
+    "rootScreen": null,
+    "isFetching": true,
+    "version": "2.120.0",
+    "markdownLinkBehavior": "auto",
+    "experimentalDataTabEnabled": true
+  }
+}
